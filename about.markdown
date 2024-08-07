@@ -1,18 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Books
+permalink: /books/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Chapter 7: [Ch7](/_posts/2024-08-07-Ch7.md)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Chapter 6: [Ch6](/_posts/2024-08-06-Ch6.md)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Chapter 5: [Ch5](/_posts/2024-08-05-Ch5.md)
