@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 markdown            : kramdown
+
+header-img          : images/Revisiting_the_Veil_Nebula.jpg 
