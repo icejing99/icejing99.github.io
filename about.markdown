@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Books
-permalink: /books/
+title: About
+permalink: /about/
 ---
 
 about
