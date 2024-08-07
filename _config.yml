@@ -53,3 +53,5 @@ plugins              :
 markdown            : kramdown
 
 header-img          : "images/Revisiting_the_Veil_Nebula.jpg"
+
+permalink           : /:categories/:year/:month/:day/:title.html
