@@ -6,7 +6,7 @@ permalink: /books/
 
 _Community Ecology_
 
-[Chapter 7](/_posts/2024-08-08-Ch8.md)
+[Chapter 8](/_posts/2024-08-08-Ch8.md)
 
 [Chapter 7](/_posts/2024-08-07-Ch7.md)
 
