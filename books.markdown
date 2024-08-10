@@ -4,7 +4,13 @@ title: Books
 permalink: /books/
 ---
 
+
+
 _Community Ecology_
+
+[Chapter 10](/_posts/2024-08-10-Ch10.md)
+
+[Chapter 9](/_posts/2024-08-09-Ch9.md)
 
 [Chapter 8](/_posts/2024-08-08-Ch8.md)
 
@@ -13,6 +19,8 @@ _Community Ecology_
 [Chapter 6](/_posts/2024-08-06-Ch6.md)
 
 [Chapter 5](/_posts/2024-08-05-Ch5.md)
+
+
 
 
 try
