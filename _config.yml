@@ -160,3 +160,5 @@ tag_archive:
     </li>
   {% endfor %}
 </ul>
+
+future: true
